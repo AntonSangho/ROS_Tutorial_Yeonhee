@@ -17,14 +17,12 @@
 1. [ROS Tutorials](http://wiki.ros.org/ROS/Tutorials)에 접속  
     * 리눅스가 처음인 사람은 Unix tutorial for Beginners참고
 2. Core ROS Tutorials
-3. [Navigating the ROS Filesystem](http://wiki.ros.org/ROS/Tutorials/NavigatingTheFilesystem)
+3. [ROS Filesystem 알기](http://wiki.ros.org/ROS/Tutorials/NavigatingTheFilesystem)
 : ROS환경에서 파일 접근하는 법을 베우는 튜토리얼  
-4. [Creating a ROS Package](http://wiki.ros.org/ROS/Tutorials/CreatingPackage) :    
-5. [Building a ROS Package](http://wiki.ros.org/ROS/Tutorials/BuildingPackages)
-6. [Understanding ROS Node](http://wiki.ros.org/ROS/Tutorials/UnderstandingNodes)
-
-### 참고
-- Ubuntu install of
+4. [ROS Package 만들기](http://wiki.ros.org/ROS/Tutorials/CreatingPackage) : ROS 패키지를 만드는 법    
+5. [ROS Package 빌드하기](http://wiki.ros.org/ROS/Tutorials/BuildingPackages): ROS를 빌드하는 법을 배우기
+6. [ROS Node 배우기](http://wiki.ros.org/ROS/Tutorials/UnderstandingNodes): roscore,rosnode,rosrun을 turtlesim으로 배우기
+7. [ROS Topic 배우기](https://github.com/philc/vimium): turtlesim과 turtle_teleop_key로 서로 topic주고 받는거 
 
 
 ## 참고 
