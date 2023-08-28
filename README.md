@@ -1,8 +1,7 @@
 # ROS_Tutorial_Yeonhee
 ## Index  
 1. 리눅스 설치 : Ubuntu 20.04 
-2. ROS 설치 :  
-
+2. ROS 설치 :  Noetic
 
 ## 리눅스 환경설정 
 - 기본 설치 파이썬은 3.8 인데 파이썬 설정 잘못해서 OS를 다시 설치한 경험이 있기에 우선 그냥 그대로 진행 
