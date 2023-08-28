@@ -21,7 +21,7 @@
 4. [ROS Package 만들기](http://wiki.ros.org/ROS/Tutorials/CreatingPackage) : ROS 패키지를 만드는 법    
 5. [ROS Package 빌드하기](http://wiki.ros.org/ROS/Tutorials/BuildingPackages): ROS를 빌드하는 법을 배우기
 6. [ROS Node 배우기](http://wiki.ros.org/ROS/Tutorials/UnderstandingNodes): roscore,rosnode,rosrun을 turtlesim으로 배우기
-7. [ROS Topic 배우기](https://github.com/philc/vimium): turtlesim과 turtle_teleop_key로 서로 topic주고 받는거 
+7. [ROS Topic 배우기](http://wiki.ros.org/ROS/Tutorials/UnderstandingTopics): turtlesim과 turtle_teleop_key로 서로 topic주고 받는거 
 
 
 ## 참고 
