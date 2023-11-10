@@ -1,8 +1,10 @@
 # ROS_Tutorial_Yeonhee
-## Index  
+
+## 수업 계획 
+- [ROS로봇 세미나 자료](https://github.com/robotpilot/ros-seminar)를 기반으로 수업을 진행하고 보충된 자료는 [책](https://product.kyobobook.co.kr/detail/S000001891063)을 참고한다. 
+## 개발환경  
 1. 리눅스 설치 : Ubuntu 20.04 
 2. ROS 설치 :  Noetic
-
 ## 리눅스 환경설정 
 - 기본 설치 파이썬은 3.8 인데 파이썬 설정 잘못해서 OS를 다시 설치한 경험이 있기에 우선 그냥 그대로 진행 
 - 한글 키보드 설정   
